@@ -5,7 +5,7 @@ https://www.facebook.com/prasadd.wilagama/ FaceBook  prasaddananjayawilagama1@gm
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning UOC ,SLIIT
 - 👨‍🎓 Studying Electronic And Automation, UOC
-- 👨‍🎓 Studying Information Technology, SLII
+- 👨‍🎓 Studying Information Technology, SLIIT
 - 👯 I’m looking to collaborate on React JS
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about Anything
