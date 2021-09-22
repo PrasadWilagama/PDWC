@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **PDWC/PDWC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +18,4 @@ https://www.facebook.com/prasadd.wilagama/ FaceBook prasaddananjayawilagama1@gma
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Errors are reacherble 
 -🚧 Current Project: FOLMS official website
--->
+
