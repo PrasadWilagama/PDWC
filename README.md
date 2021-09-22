@@ -1,10 +1,5 @@
-### Hi there 👋
-
-**PDWC/PDWC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-  # Prasad-D-Wilagama
-https://www.facebook.com/prasadd.wilagama/ FaceBook prasaddananjayawilagama1@gmail.com
+### Hi there I'm Prasad-D-Wilagama👋
+https://www.facebook.com/prasadd.wilagama/ FaceBook  prasaddananjayawilagama1@gmail.com
 
 - 👨‍💻 22 Years old Developer
 - 🔭 I’m currently working on 
