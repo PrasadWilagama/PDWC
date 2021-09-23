@@ -2,7 +2,6 @@
 https://www.facebook.com/prasadd.wilagama/ FaceBook  prasaddananjayawilagama1@gmail.com
 
 - 👨‍💻 22 Years old Developer
-- 🔭 I’m currently working on 
 - 🌱 I’m currently learning UOC ,SLIIT
 - 👨‍🎓 Studying Electronic And Automation, UOC
 - 👨‍🎓 Studying Information Technology, SLIIT
